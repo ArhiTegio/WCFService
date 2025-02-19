@@ -1,0 +1,13 @@
+﻿Выполняется установка сборки 'C:\Git\Csharp\WFCLibrary\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Git\Csharp\WFCLibrary\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.InstallLog
+   assemblypath = C:\Git\Csharp\WFCLibrary\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.exe
+Устанавливается служба WindowsServiceHostForMyService...
+Создается исходный EventLog WindowsServiceHostForMyService в журнале Application...
+Выполняется откат для сборки 'C:\Git\Csharp\WFCLibrary\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Git\Csharp\WFCLibrary\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.InstallLog
+   assemblypath = C:\Git\Csharp\WFCLibrary\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.exe
+Восстанавливается исходное состояние журнала событий для источника WindowsServiceHostForMyService.

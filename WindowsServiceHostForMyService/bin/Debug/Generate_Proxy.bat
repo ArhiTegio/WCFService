@@ -1,0 +1,1 @@
+C:\'Program Files (x86)'\'Microsoft SDKs'\Windows\v10.0A\bin\'NETFX 4.6.1 Tools'\SvcUtil.exe net.tcp://localhost:9002/MyService /out:MyServiceProxy.cs /config:App.config
